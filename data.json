@@ -1,0 +1,31 @@
+{
+  "colores":{
+    "p1" : "rgb(255, 255, 255)",
+    "p2" : "rgb(255, 100, 50)",
+    "p3" : "rgb(50, 255, 100)",
+    "p4" : "rgb(150, 255, 100)",
+    "p5" : "rgb(100, 255, 150)",
+    "p6" : "rgb(150, 255, 255)",
+    "p7" : "rgb(255, 255, 150)"
+  },
+  "videos":{
+    "p1" : "videos/circulo.mp4",
+    "p2" : "videos/fuego.mp4",
+    "p3" : "videos/glitch.mp4",
+    "p4" : "videos/grano.mp4",
+    "p5" : "videos/lineas.mp4",
+    "p6" : "videos/luz.mp4",
+    "p7" : "videos/ondas.mp4"
+  },
+
+  "audios":{
+    "p1" : "audios/1.mp3",
+    "p2" : "audios/2.mp3",
+    "p3" : "audios/3.mp3",
+    "p4" : "audios/4.mp3",
+    "p5" : "audios/5.mp3",
+    "p6" : "audios/6.mp3",
+    "p7" : "audios/7.mp3"
+
+  }
+}
